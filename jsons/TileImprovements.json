@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Private City",
+		"uniqueTo": "European Jurisdiction",
+		"turnsToBuild": 10,
+		"gold": 3,
+		"happiness": 2,
+		"terrainsCanBeBuiltOn": ["Land"],
+
+		"techRequired": "Globalization"
+	}
+]

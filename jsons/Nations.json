@@ -1,0 +1,18 @@
+[
+	{
+		"name": "European Jurisdiction",
+		"leaderName": "Alexis Echensperger",
+		"adjective": ["European"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Taxes are theft!",
+
+		"outerColor": [255, 251, 0],
+		"innerColor": [0, 0, 0],
+    "cities": ["Moscow","Leningrad","Stalingrad","Kuibishev","Kiev","Omsk","Baku","Harkow","Minsk","Gorkiy","Novosibirsk",
+    "Sverdlovsk","Tbilisi","Dnepropetrovsk","Tashkent","Murmansk","Vladiwostok","Vladimir", "Nizhny Novgorod", "Velikiy Novgorod", "Ryazan", "Novgorod", "Simpheropol", "Sevastopol"],
+        "uniques": ["[+1 Gold] per [3] population [in all cities]", "[+1 Production] per [3] population [in all cities]", "[+50]% [Culture]"]
+    
+	}
+]
